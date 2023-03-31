@@ -1,4 +1,4 @@
-tabs: ['src/index.ts']
+tabs: ['src/Root.tsx']
 terminal-one: |
     npm install
     npm start
